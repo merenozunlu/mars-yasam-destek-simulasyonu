@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # 🚀 Mars Kolonisi Yaşam Destek Simülatörü
 
