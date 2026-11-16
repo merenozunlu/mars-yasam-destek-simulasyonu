@@ -17,7 +17,7 @@
 
 | | |
 | :--- | :--- |
-| **Ad Soyad** | Muammer Eren Üzümlü |
+| **Ad Soyad** | Muammer Eren Özünlü |
 | **Öğrenci No** | 1260505013 |
 | **Ders** | Algoritma ve Programlama |
 | **Kütüphaneler** | `stdio.h`, `stdlib.h`, `time.h`, `locale.h` |
